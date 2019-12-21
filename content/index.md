@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# littleBIGsynths
 
 > A ready to use static blog, powered by [Cecil](https://cecil.app).
